@@ -25,4 +25,4 @@ Here's how you use it!
 ``` 
 
 
-The REST is magic. (also see RESTMagic.org)
+The REST is magic. (also see [RESTMagic.org](http://RESTMagic.org))
