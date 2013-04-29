@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreloadAds</key>
+	<dict>
+		<key>RevMob</key>
+		<array>
+			<string>Link</string>
+		</array>
+	</dict>
+	<key>ViewControllers</key>
+	<dict>
+		<key>ViewControllerClassName</key>
+		<dict>
+			<key>RandomAds</key>
+			<array>
+				<dict>
+					<key>AdTitle</key>
+					<string>UIAlertViewTitle</string>
+					<key>AdType</key>
+					<string>CustomAlert</string>
+					<key>AlertCancelButtonTitle</key>
+					<string>No</string>
+					<key>AlertMessage</key>
+					<string>UIAlertViewMessage</string>
+					<key>AlertOtherButtonTitle</key>
+					<string>Yes</string>
+					<key>NetworkName</key>
+					<string>RevMob</string>
+				</dict>
+				<dict>
+					<key>AdType</key>
+					<string>Banner</string>
+					<key>AdNetwork</key>
+					<string>iAd</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>AdTypes</key>
+	<dict>
+		<key>AdType</key>
+		<dict>
+			<key>DefaultNetworkName</key>
+			<string>NetworkName</string>
+		</dict>
+	</dict>
+	<key>NetworkIds</key>
+	<dict>
+		<key>NetworkName</key>
+		<string>apikeyortoken</string>
+	</dict>
+</dict>
+</plist>
